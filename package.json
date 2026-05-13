@@ -1,0 +1,19 @@
+{
+  "name": "dashboard-alcantarillado-bogota",
+  "version": "1.0.0",
+  "description": "Dashboard de monitoreo inteligente de alcantarillado para Bogotá (EAAB) con Express + Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "simulate": "node simulate-sensor.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
