@@ -1,0 +1,57 @@
+{
+  "ZONA-CENTRO-01": {
+    "sensorId": "ZONA-CENTRO-01",
+    "ubicacion": "Calle 19 #7-30, Centro",
+    "lat": 4.6097,
+    "lon": -74.0717,
+    "profundidadTotal": 100,
+    "distanciaVacia": 90,
+    "ultimaLectura": null,
+    "historico": [],
+    "alertas": []
+  },
+  "ZONA-CHAPINERO-02": {
+    "sensorId": "ZONA-CHAPINERO-02",
+    "ubicacion": "Cra 13 #63-45, Chapinero",
+    "lat": 4.6533,
+    "lon": -74.0636,
+    "profundidadTotal": 100,
+    "distanciaVacia": 90,
+    "ultimaLectura": null,
+    "historico": [],
+    "alertas": []
+  },
+  "ZONA-KENNEDY-03": {
+    "sensorId": "ZONA-KENNEDY-03",
+    "ubicacion": "Av. 1ro de Mayo, Kennedy",
+    "lat": 4.628,
+    "lon": -74.1469,
+    "profundidadTotal": 100,
+    "distanciaVacia": 90,
+    "ultimaLectura": null,
+    "historico": [],
+    "alertas": []
+  },
+  "ZONA-SUBA-04": {
+    "sensorId": "ZONA-SUBA-04",
+    "ubicacion": "Cra 91 #145-20, Suba",
+    "lat": 4.7569,
+    "lon": -74.0931,
+    "profundidadTotal": 100,
+    "distanciaVacia": 90,
+    "ultimaLectura": null,
+    "historico": [],
+    "alertas": []
+  },
+  "ZONA-USAQUEN-05": {
+    "sensorId": "ZONA-USAQUEN-05",
+    "ubicacion": "Cl 116 #15-40, Usaquén",
+    "lat": 4.7036,
+    "lon": -74.0306,
+    "profundidadTotal": 100,
+    "distanciaVacia": 90,
+    "ultimaLectura": null,
+    "historico": [],
+    "alertas": []
+  }
+}
